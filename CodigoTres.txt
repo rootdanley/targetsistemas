@@ -1,0 +1,11 @@
+3) Descubra a lógica e complete o próximo elemento:
+
+a) 1, 3, 5, 7, PROXIMO ELEMENTO = 9
+
+b) 2, 4, 8, 16, 32, 64, PROXIMO ELEMENTO = 128
+
+c) 0, 1, 4, 9, 16, 25, 36, PROXIMO ELEMENTO = 49
+
+d) 4, 16, 36, 64, PROXIMO ELEMENTO = 100
+
+e) 1, 1, 2, 3, 5, 8, PROXIMO ELEMENTO = 13
